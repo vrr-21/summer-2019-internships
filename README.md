@@ -74,6 +74,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Gusto](https://boards.greenhouse.io/gusto/jobs/483342)  | CA | Present | |
 | [HBO](https://careers.warnermediagroup.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&noback=0&partnerid=391&siteid=36&jobid=818472#jobDetails=818472_36) | WA | Present | |
 | [HCSS](hhttps://boards.greenhouse.io/hcss/jobs/1389685) | TX | Present | |
+| [HDE](https://www.hde.co.jp/en/gip/) | Tokyo | Present | |
 | [Honey](https://boards.greenhouse.io/honey/jobs/1279222#app)  | CA | Present | |
 | [HubSpot](https://www.hubspot.com/jobs/apply?gh_jid=807207)  | MA | Present | |
 | [Hudl](https://www.builtinboston.com/job/internship/software-development-internship-co-op-summer-2019/17397)  | MA | Present | |
@@ -116,6 +117,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Narrative Science](https://www.startwire.com/express_apply_jobs/NDE2OF9lNzU3MTExMmUzMjlmNTg5NDYwNDg2NWIzZTgwYzZiY19sdXVhX2k=?source=adzuna_l2_HRCommunityAdmin)  | IL | Present | |
 | [National Instruments](https://www.linkedin.com/jobs/view/intern-co-op-software-engineer-2019-at-national-instruments-811364289/)  | TX | Present | |
 | [NBC](https://www.linkedin.com/jobs/view/r-d-software-engineering-intern-summer-2019-at-nbcuniversal-media-llc-815599611/)  | CA | Present | |
+| [NetApp](https://jobs.netapp.com/go/University-Recruiting-Jobs/3583600/?q=&title=intern-+Software)  | CA, CO, KS, MA, NC, PA  | Present | |
 | [Nextdoor](https://nextdoor.com/jobs/?gh_jid=1258419)  | CA | Present | Must graduate in 2020 |
 | [NFL](https://nfl.taleo.net/careersection/nfl_ex/jobdetail.ftl?job=1800005W&lang=en)  | NY | Present ||
 | [Nike](https://jobs.nike.com/job/beaverton/digital-undergraduate-intern/824/9277021)  | OR | Present | Expected graduation date of Winter 2019 or Spring 2020. Variety of positions available from Software Engineer to IOS Developer to Full Stack Developer. Reach out to [Melana Hammel '18](mailto:mhammel@alumni.princeton.edu) with any questions. |
@@ -133,6 +135,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [PayPal](https://www.linkedin.com/jobs/view/software-engineer-intern-at-paypal-832483824/)  | NY | Present ||
 | [Peak6 Investments](https://www.builtinchicago.org/job/internship/technology-experience-women-2019-summer-internship/64218)  | IL | Present | Must be female and graduate in Dec. 2019 or June 2020|
 | [Pinterest](https://careers.pinterest.com/careers/details/software-engineer-intern_san-francisco_1279340)  | CA | Present | |
+| [Platform.sh](https://platform.sh/company/careers/job?gh_jid=4100218002)  | Paris | Present ||
 | [Playstation](https://www.playstation.com/en-us/corporate/about/careers/internships/)  | CA | Present | Must be expert in C and C++. Available positions: Engine programmer, Gameplay programmer, Tools programmer, Technical Artist|
 | [Plexus](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Boulder-CO/Intern---Software---Summer-2019_R000645-2?Codes=SM-LinkedIn)  | CO | Present | Juniors preferred |
 | [Pure Storage](https://www.builtinseattle.com/job/internship/2019-software-engineer-intern-bel/3682)  | WA | Present |  |
